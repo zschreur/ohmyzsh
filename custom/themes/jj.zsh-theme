@@ -1,2 +1,2 @@
-# A custom theme for Jujutsu repos
-PROMPT='$(jj-zsh-theme)'
+PROMPT="%F{38}󰇥 %f%F{246}[%~]%f "
+RPROMPT='$(jj-zsh-theme)'
